@@ -82,7 +82,23 @@ A futuristic marketplace web application to **buy new bikes, scooters, EVs, and 
   c. User Acceptance Testing (UAT): Real users validating the core buying journey (Search -> Compare -> Calculate -> Book).
   
 - Customer feedback carousel
-
+### 9. Performance & Validation
+- **Evaluation Metrics**:
+  
+  a. API Latency (Target: < 200ms)
+  
+  b. First Contentful Paint (FCP) (Target: ~ 2 seconds)
+  
+  c. Conversion Rate (Search to Booking)
+  
+  d. Chatbot Query Resolution Time.
+- **Testing Strategy**:
+ 
+  a. Unit Tests: Verify individual functions (e.g., calculator formulas)
+  
+  b. Integration Tests: Confirm data flow between Frontend and Backend services
+  
+  c. User Acceptance Testing (UAT): Real users validate core features like comparison and booking in a staging environment.
 ---
 
 ## How to Run Locally
