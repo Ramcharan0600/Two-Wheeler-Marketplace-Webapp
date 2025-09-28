@@ -66,7 +66,7 @@ A futuristic marketplace web application to **buy new bikes, scooters, EVs, and 
 ### 8. Performance & Validation
 - Evaluation Metrics:
   
-  a. Page Load Time (Target: < 3 seconds)
+  a. Page Load Time (Target: ~ 1 seconds)
   
   b. API Latency (Target: < 200ms)
   
