@@ -62,14 +62,14 @@ A futuristic marketplace web application to **buy new bikes, scooters, EVs, and 
 **The Decision Powerhouse**: 🧠
 - - *Calculators Built Right Ins*: We figured buyers shouldn't have to leave the page to check their budget. Our EMI and Fuel Cost Calculators are right on the product page, giving you an instant, complete picture of what the bike will cost you every month. No more fiddling with spreadsheets!💰
   - *Smart Comparison, Not Just Lists:*: Tur Side-by-Side Comparison feature is genius. Instead of making you squint at two columns of numbers, we use smart logic to immediately highlight the key differences—like where one bike is superior to the other. 💡You decide faster.
-  - 
+    
 **Intelligent Help & Accessibility**:🤝
-- - *The Gemini AI Sales Assistant*:That movable chatbot bubble? That's your own personal sales rep. Powered by the Gemini API, it can answer any weird question you have about specs, finance terms, or even suggest the perfect bike for your daily commute. Help is always one tap away.
+- - *The Gemini AI Sales Assistant*: That movable chatbot bubble? That's your own personal sales rep. Powered by the Gemini API, it can answer any weird question you have about specs, finance terms, or even suggest the perfect bike for your daily commute. Help is always one tap away.
   - *Speak Your Language*: We know India is diverse! Our Native Language Preference setting means you can select your regional language for the entire app. The experience feels more comfortable, local, and trustworthy right away.
   - *The Business Brains*: For the people running Vahan Bazar, the chatbot is also a secret weapon. It lets administrators ask questions like, "How many scooters did we sell in Hyderabad last week?" and get instant analytical answers without having to run complex reports🤖.
-  - 
+    
 **Modern Buying Experience**:🚀
-- - *See It in 3D*:For new models, forget flat photos. Our 3D Model Viewer 🖼️ lets you spin, zoom, and look at the bike from every angle, making the virtual buying experience feel much closer to being in the showroom.
+- - *See It in 3D*: For new models, forget flat photos. Our 3D Model Viewer 🖼️ lets you spin, zoom, and look at the bike from every angle, making the virtual buying experience feel much closer to being in the showroom.
   - *Instant Action*: The main page is split into two clear paths: "Buy New Bike" or "Resell Bike. 🔄" This instant redirection means no wasted time and a perfectly tailored journey from the moment you land on Vahan Bazar🛒.
 
 ---
